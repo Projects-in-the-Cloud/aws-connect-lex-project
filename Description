@@ -1,0 +1,5 @@
+1.	Go to Amazon Connect and click on Add Instance
+2.	Follow the below steps for adding an instance:
+•	 Identity Management: Stores users in Amazon Connect - Create and manage users in Amazon Connect. You cannot share users with other applications.
+•	Access URL: https://callcenter-fintech.my.connect.aws
+•	Add an Administrator: 
